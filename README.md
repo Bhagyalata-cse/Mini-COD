@@ -3,7 +3,7 @@
 
 A Lightweight Model for Camouflaged Object Detection
 > **Authors:**
-> > [*Bhagyalata Modak*](https://Bhagyalata-cse.github.io),
+> > [*Bhagyalata Modak*]([https://orcid.org/0009-0009-4822-6408]),
 > > Wang...
 
 
