@@ -40,7 +40,7 @@ We use data from publicly available datasets:
 
 ### 3. Train
 
-To train FSNet with costumed path:
+To train MiniCOD with costumed path:
 
 ```bash
 python MyTrain_Val.py --save_path './train_path/MiniCOD/check/'
