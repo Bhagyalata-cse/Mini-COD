@@ -1,7 +1,4 @@
 # Mini-COD      ![Coming soon](https://img.shields.io/badge/Coming%20soon-red)
-** Lightweight Model for Camouflaged Object Detection*
-
-
 
 
 > **Authors:**
