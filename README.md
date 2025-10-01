@@ -33,10 +33,10 @@ pip install -r requirements.txt
 
 We use data from publicly available datasets:
 + downloading testing dataset and move it into `./Dataset/TestDataset/`, 
-    which can be found in [Google Drive](https://drive.google.com/file/d/1SLRB5Wg1Hdy7CQ74s3mTQ3ChhjFRSFdZ/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1F3tVEWYzKYp5NBv3cjiaAg) (extraction code: fapn). 
+    which can be found in 
 
 + downloading training/validation dataset and move it into `./Dataset/TrainValDataset/`, 
-    which can be found in [Google Drive](https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1uyQz0b_r_5yCee0orSw7EA) (extraction code: fapn).
+    which can be found in 
 
 ### 3. Train
 
