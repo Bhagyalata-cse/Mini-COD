@@ -1,7 +1,7 @@
 # Mini-COD      ![Coming soon](https://img.shields.io/badge/Coming%20soon-red)
 
 
-A Lightweight Model for Camouflaged Object Detection
+** Lightweight Model for Camouflaged Object Detection**
 > **Authors:**
 > > [*Bhagyalata Modak*]([https://orcid.org/0009-0009-4822-6408]),
 > > Wang...
