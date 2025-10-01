@@ -1,4 +1,5 @@
-# Mini-COD
+# Mini-COD       -🔴 **Coming soon...**
+
 A Lightweight Model for Camouflaged Object Detection
 > **Authors:**
 > > [*Bhagyalata Modak*](https://Bhagyalata-cse.github.io),
